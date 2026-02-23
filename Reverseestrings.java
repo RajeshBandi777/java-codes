@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Reversee 
+public class Reverseestrings 
 {
 public static void main(String[] args)
  {
@@ -17,4 +17,5 @@ public static void main(String[] args)
    }
 System.out.println(Arrays.toString(arr));   
  }
+
 }
